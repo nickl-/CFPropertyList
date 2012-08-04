@@ -1,5 +1,5 @@
 {
-    "name": "ChiperSoft\/CFPropertyList",
+    "name": "chipersoft\/cfpropertylist",
     "description": "This is a fork of CFPropertyList by Rodney Rehm, created for the purpose of reorganizing the CFPropertyList classes into PHP 5.3 namespacing, following PSR-0 rules.",
     "version": "0.1.0",
     "type": "library",
